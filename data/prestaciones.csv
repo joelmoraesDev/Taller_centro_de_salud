@@ -1,0 +1,16 @@
+id_prestacion,nombre_prestacion,categoria,costo_base
+P001,Consulta clínica general,Clínica,8500
+P002,Consulta pedíatrica,Pediatria,9200
+P003,Control Cardiológico,Cardiología,15000
+P004,Consulta dermatológica,Dermatología,11000
+P005,Consulta traumatologica,Traumatología,13500
+P006,Consulta 06,General,2800
+P007,Consulta 07,General,4500
+P008,Examen 01,Examen,5600
+P009,Examen 02,Examen,2700
+P010,Examen 03,Examen,9400
+P011,Examen 04,Examen,6700
+P012,Práctica 001,Práctica,8200
+P013,Práctica 002,Práctica,5300
+P014,Práctica 003,Práctica,2600
+P015,Practica 004,Práctica,8500

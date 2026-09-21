@@ -1,0 +1,7 @@
+id_centro	nombre_centro	localidad	provincia	telefono
+CS001	Centro de Salud  Rivadavia	Ciudad Autónoma de Buenos Aires	Buenos Aires	011-4555-1234
+CS002	Centro Médico del Sur	La Plata	Buenos Aires	0221-422-5678
+CS003	Clínica San Martín 	Córdoba	Córdoba	0351-489-0012
+CS004	Centro de Salud Belgrano	Rosario	Santa Fe	0341-456-3344
+CS005	Policlínico  Norte	Mendoza	Mendoza	0261-411-7788
+CS006	Centro Integral de Salud Oeste	Ciudad Autónoma de Buenos Aires	Buenos Aires	011-4600-9900
